@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Project 2: Intra-Domain Routing Algorithms
 
 ## Objective
@@ -231,3 +232,6 @@ This programming project is based on Princeton University's Project 2 from COS 4
 ## Survey
 
 Please fill up the survey when you finish your project: [Survey link](https://forms.gle/jfeQDjfNHbMTqPfT7).
+=======
+# final-project-cn
+>>>>>>> 5b6cabf77db4b7f09844935e3806963cf2cba60b
